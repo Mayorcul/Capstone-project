@@ -43,7 +43,7 @@ This primary source of Data used here LITA Capstone Dataset CSV and it is a caps
 ---
 It involves the exploring of the data to answer some questions about the Data such as;
    - Perform an initial exploration of the sales data.
-   - Use pivot tables to summarizetotal sales by product, region, and month.
+   - Use pivot tables to summarize total sales by product, region, and month.
    - Use Excel formulas to calculate metrics such as average sales per product and total revenue by region
      
 ### Data Analysis
