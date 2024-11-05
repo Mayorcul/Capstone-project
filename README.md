@@ -111,6 +111,10 @@ Answer
 [LITA Capstone Dataset.xlsx](https://github.com/user-attachments/files/17636277/LITA.Capstone.Dataset.xlsx)
 <img width="960" alt="SALES DATA" src="https://github.com/user-attachments/assets/9b6882aa-3a5f-4fcc-a3f5-a7141cc36133">
 
+### Conclusions 
+This project i analyze the sales performance of a retail store. Top-selling products, regional performance, and monthly sales trends and query the data. I also produce an interactive Power BI
+dashboard that highlights my findings
+
 
 
 
