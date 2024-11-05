@@ -11,7 +11,7 @@ Tools Used
 
 Data Cleaning and preparation 
 
-Exploratory Data Analysisw
+Exploratory Data Analysis
 
 ### Introduction
 ---
@@ -71,15 +71,13 @@ Answer
    1. Average sales per product
    2. Total revenue by region
 ![Average sales ](https://github.com/user-attachments/assets/d8287ab4-584f-4cbc-8f04-433774d0eda1)
-
 Question 3
 - Create any other interesting report
-
 Answer
  1. Top grossing
  2. Best selling product by amount
  3. Best selling product by Quantity
-
+![Question 3](https://github.com/user-attachments/assets/08017bfb-c4dd-405e-a03c-7bcc779a8097)
 
 
 
