@@ -78,9 +78,7 @@ Answer
 Excel Question 3
 - Create any other interesting report
 Answer
- 1. Top grossing
- 2. Best selling product by amount
- 3. Best selling product by Quantity
+<img width="960" alt="SALES DATA" src="https://github.com/user-attachments/assets/9b6882aa-3a5f-4fcc-a3f5-a7141cc36133">
 
 SQL
 Question 1-7
@@ -101,10 +99,9 @@ Question 1-7
 ![Sales 6](https://github.com/user-attachments/assets/5726c287-cd05-4650-9604-70aa414cbbf3)
 ![Sales 7](https://github.com/user-attachments/assets/76834028-ebfa-478f-bbb3-7c70934bca7b)
 
-3. Power BI:
-o Create a dashboard that visualizes the insights found in Excel and SQL. The
-dashboard should include a sales overview, top-performing products, and
-regional breakdowns.
+Power BI
+Question 
+ Create a dashboard that visualizes the insights found in Excel and SQL. Thedashboard should include a sales overview, top-performing products, and regional breakdowns.
 
 
 
