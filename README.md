@@ -55,7 +55,7 @@ This is where we can include our Data for cleaning, transforming, visualizing an
 ```
 ### Result 
 ---
-Question 1
+Excel Question 1
  - Exploration of the sales data. Use pivot tables to summarize total sales by product, region, and month.
 Answer
  1. Total sales product
@@ -63,21 +63,40 @@ Answer
  3. Total sales by month 
 ![Sales Analysis](https://github.com/user-attachments/assets/10a5148f-72c8-4094-9ed0-cd24edbc8b7a)
 
-Question  2
+Excel Question  2
 - Use Excel formulas to calculate metrics such as average sales per product and
 total revenue by region.
-
 Answer
    1. Average sales per product
    2. Total revenue by region
 ![Average sales ](https://github.com/user-attachments/assets/d8287ab4-584f-4cbc-8f04-433774d0eda1)
-Question 3
+
+Excel Question 3
 - Create any other interesting report
 Answer
  1. Top grossing
  2. Best selling product by amount
  3. Best selling product by Quantity
 ![Question 3](https://github.com/user-attachments/assets/08017bfb-c4dd-405e-a03c-7bcc779a8097)
+
+SQL
+Question 1-7
+-  Retrieve the total sales for each product category.
+-  Find the number of sales transactions in each region.
+-  Find the highest-selling product by total sales value.
+-  Calculate total revenue per product.
+-  Calculate monthly sales totals for the current year.
+-  Find the top 5 customers by total purchase amount.
+-  Calculate the percentage of total sales contributed by each region.
+-  Identify products with no sales in the last quarter.
+ Answer
+
+3. Power BI:
+o Create a dashboard that visualizes the insights found in Excel and SQL. The
+dashboard should include a sales overview, top-performing products, and
+regional breakdowns.
+
+
 
 
 
