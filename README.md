@@ -53,4 +53,26 @@ This is where we can include our Data for cleaning, transforming, visualizing an
 ```Excel
 =H2*I2
 ```
+### Result 
+---
+Question 1
+ - Exploration of the sales data. Use pivot tables to summarize total sales by product, region, and month.
+Answer
+ 1. Total sales product
+ 2. Total sales by region
+ 3. Total sales by month 
+![Sales Analysis](https://github.com/user-attachments/assets/10a5148f-72c8-4094-9ed0-cd24edbc8b7a)
+
+Question  2
+ Use Excel formulas to calculate metrics such as average sales per product and
+total revenue by region.
+
+Answer
+   1. Average sales per product
+   2. Total revenue by region
+   3. 
+   
+ Create any other interesting report
+
+
 
