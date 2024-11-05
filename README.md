@@ -22,3 +22,8 @@ This primary source of Data used here LITA Capstone Dataset CSV and it is a caps
  - Microsoft Excel: for Data cleaning, transforming, analysis and visualization
  - SQL: Structured query language for quering data
  - Power BI for visualization
+
+### Data Cleaning and preparation
+ 1. Data cleaning and formatting
+ 2. Handling missing variables
+ 3. Data loading and inspection 
