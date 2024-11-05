@@ -9,6 +9,10 @@ Data Soures
 
 Tools Used
 
+Data Cleaning and preparation 
+
+Exploratory Data Analysisw
+
 ### Introduction
 ---
 This project aims to generate, analyze sales data to gain insights into sales performance of retail store, also to explore sales data to uncover key insights such as top selling products, regional performance and monthly sales trends.
@@ -24,6 +28,19 @@ This primary source of Data used here LITA Capstone Dataset CSV and it is a caps
  - Power BI for visualization
 
 ### Data Cleaning and preparation
+---
  1. Data cleaning and formatting
  2. Handling missing variables
- 3. Data loading and inspection 
+ 3. Data loading and inspection
+
+### Exploratory Data Analysis
+---
+It involves the exploring of the data to answer some questions about the Data such as;
+   - Perform an initial exploration of the sales data.
+   - Use pivot tables to summarizetotal sales by product, region, and month.
+   - Use Excel formulas to calculate metrics such as average sales per product and total revenue by region
+     
+### Data Analysis
+--- 
+```Excel
+
