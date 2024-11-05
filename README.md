@@ -116,7 +116,7 @@ Answer
 
 ### Conclusions 
 This project i analyze the sales performance of a retail store. Top-selling products, regional performance, and monthly sales trends and query the data. I also produce an interactive Power BI
-dashboard that highlights my findings
+dashboard that highlights my findings.
 
 
 
