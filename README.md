@@ -48,6 +48,8 @@ This is where we include some basic lines of code or queries or even some of the
 SELECT * FROM TABLE 1
 WHERE CONDITION = TRUE
 ```
+This is where we can include our Data for cleaning, transforming, visualizing and analysis in Excel;
+
 ```Excel
 =H2*I2
 ```
