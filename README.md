@@ -69,7 +69,11 @@ total revenue by region.
 Answer
    1. Average sales per product
    2. Total revenue by region
+   3. Top grossing
+   4. Best selling product by amount
+   5. Best selling product by Quantity
 ![Average sales ](https://github.com/user-attachments/assets/d8287ab4-584f-4cbc-8f04-433774d0eda1)
+![Question 2](https://github.com/user-attachments/assets/08017bfb-c4dd-405e-a03c-7bcc779a8097)
 
 Excel Question 3
 - Create any other interesting report
@@ -77,7 +81,6 @@ Answer
  1. Top grossing
  2. Best selling product by amount
  3. Best selling product by Quantity
-![Question 3](https://github.com/user-attachments/assets/08017bfb-c4dd-405e-a03c-7bcc779a8097)
 
 SQL
 Question 1-7
@@ -90,6 +93,13 @@ Question 1-7
 -  Calculate the percentage of total sales contributed by each region.
 -  Identify products with no sales in the last quarter.
  Answer
+![Sales 1](https://github.com/user-attachments/assets/e3729550-b1a2-474c-9c23-cb3cf55dc406)
+![Sales 2](https://github.com/user-attachments/assets/4f7221f2-b7ec-4d17-adcf-ab376c2ebc90)
+![Sales 3](https://github.com/user-attachments/assets/12dd4453-5ab2-494d-8879-07a05c0928e6)
+![Sale 4](https://github.com/user-attachments/assets/9de542a0-d18d-41a5-b827-00f2f148d5c3)
+![Sales 5](https://github.com/user-attachments/assets/cb2f4268-96da-4970-b4a9-ee4772a79156)
+![Sales 6](https://github.com/user-attachments/assets/5726c287-cd05-4650-9604-70aa414cbbf3)
+![Sales 7](https://github.com/user-attachments/assets/76834028-ebfa-478f-bbb3-7c70934bca7b)
 
 3. Power BI:
 o Create a dashboard that visualizes the insights found in Excel and SQL. The
