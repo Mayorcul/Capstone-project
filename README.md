@@ -13,6 +13,10 @@ Data Cleaning and preparation
 
 Exploratory Data Analysis
 
+[Data Analysis](Data-Analysis)
+
+[Visualization](Visualization)
+
 ### Introduction
 ---
 This project aims to generate, analyze sales data to gain insights into sales performance of retail store, also to explore sales data to uncover key insights such as top selling products, regional performance and monthly sales trends.
@@ -53,8 +57,9 @@ This is where we can include our Data for cleaning, transforming, visualizing an
 ```Excel
 =H2*I2
 ```
-### Result 
+### Visualization
 ---
+ Result 
 Excel Question 1
  - Exploration of the sales data. Use pivot tables to summarize total sales by product, region, and month.
 Answer
@@ -63,9 +68,11 @@ Answer
  3. Total sales by month 
 ![Sales Analysis](https://github.com/user-attachments/assets/10a5148f-72c8-4094-9ed0-cd24edbc8b7a)
 
-Excel Question  2
+Excel Question 2 and 3
 - Use Excel formulas to calculate metrics such as average sales per product and
 total revenue by region.
+- Create any other interesting report
+
 Answer
    1. Average sales per product
    2. Total revenue by region
@@ -74,11 +81,6 @@ Answer
    5. Best selling product by Quantity
 ![Average sales ](https://github.com/user-attachments/assets/d8287ab4-584f-4cbc-8f04-433774d0eda1)
 ![Question 2](https://github.com/user-attachments/assets/08017bfb-c4dd-405e-a03c-7bcc779a8097)
-
-Excel Question 3
-- Create any other interesting report
-Answer
-<img width="960" alt="SALES DATA" src="https://github.com/user-attachments/assets/9b6882aa-3a5f-4fcc-a3f5-a7141cc36133">
 
 SQL
 Question 1-7
@@ -100,9 +102,14 @@ Question 1-7
 ![Sales 7](https://github.com/user-attachments/assets/76834028-ebfa-478f-bbb3-7c70934bca7b)
 
 Power BI
-Question 
- Create a dashboard that visualizes the insights found in Excel and SQL. Thedashboard should include a sales overview, top-performing products, and regional breakdowns.
 
+Question 
+ Create a dashboard that visualizes the insights found in Excel and SQL. The
+ dashboard should include a sales overview, top-performing products, and regional breakdowns.
+
+Answer
+[LITA Capstone Dataset.xlsx](https://github.com/user-attachments/files/17636277/LITA.Capstone.Dataset.xlsx)
+<img width="960" alt="SALES DATA" src="https://github.com/user-attachments/assets/9b6882aa-3a5f-4fcc-a3f5-a7141cc36133">
 
 
 
