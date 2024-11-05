@@ -17,6 +17,8 @@ Exploratory Data Analysis
 
 [Visualization](Visualization)
 
+Conclusions
+
 ### Introduction
 ---
 This project aims to generate, analyze sales data to gain insights into sales performance of retail store, also to explore sales data to uncover key insights such as top selling products, regional performance and monthly sales trends.
